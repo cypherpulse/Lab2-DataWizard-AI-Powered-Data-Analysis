@@ -1,0 +1,44 @@
+
+
+
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+
+*.sh
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+.DS_Store
+.idea/
+.history/
+.log
+.tmp
+.bak
+
+# Node.js
+node_modules/
+npm-debug.log*
+
+# Test output
+coverage/
+*.cover
+*.pyc
+test-results/
